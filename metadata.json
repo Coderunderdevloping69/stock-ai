@@ -1,0 +1,5 @@
+
+{
+  "name": "AI Stock Predictor",
+  "description": "An AI-powered agent that analyzes historical stock data from BSE and NSE using ML models to predict future trends and provides graphical visualizations."
+}
